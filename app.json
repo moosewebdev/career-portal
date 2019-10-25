@@ -6,32 +6,32 @@
   "keywords": ["bullhorn", "career-portal", "jobs", "angular", "express"],
   "env": {
     "BULLHORN_SWIMLANE": {
-      "description": "What is your company's Bullhorn Swimlane?",
+      "description": "91",
       "required": "true"
     },
     "BULLHORN_CORP_TOKEN": {
-      "description": "What is your company's Corp Token?",
+      "description": "1vcnf4",
       "required": "true"
     },
     "HOSTED_ENDPOINT": {
-      "description": "Where is this site hosted?",
-      "required": "true"
+      "description": "default",
+      "required": "false"
     },
     "COMPANY_NAME": {
-      "description": "What is your company name?",
+      "description": "TFDL",
       "required": "true"
     },
     "COMPANY_WEBSITE": {
       "description": "What is your company website?",
-      "required": "true"
+      "required": "false"
     },
     "COMPANY_LOGO_URL": {
-      "description": "Url for you companies logo?",
-      "required": "true"
+      "description": "http://tfdl.com/wp-content/uploads/2014/05/Logo.png",
+      "required": "false"
     },
     "GOOGLE_VERIFICATION_CODE": {
       "description": "HTML tag Verification Code from https://www.google.com/webmasters/verification/verification",
-      "required": "true"
+      "required": "false"
     },
     "GOOGLE_ANALYTICS_TRACKING_ID": {
       "description": "Google Analytics Tracking ID",

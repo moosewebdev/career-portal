@@ -9,7 +9,7 @@
     "rtf",
     "odt"
   ],
-  "companyName": "[ COMPANY NAME HERE ]",
+  "companyName": "Adric Big Company",
   "companyLogoPath": "",
   "companyUrl": "",
   "careersUrl": "",
@@ -19,9 +19,9 @@
   "maxUploadSize": 5242880,
   "service": {
     "batchSize": 500,
-    "corpToken": "[ SWIMLANE HERE ]",
+    "corpToken": "1vcnf4",
     "port": null,
-    "swimlane": "[ SWIMLANE HERE ]",
+    "swimlane": "91",
     "fields": [
       "id",
       "title",
